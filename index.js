@@ -140,7 +140,7 @@ app.get("/all-products", async (req, res) => {
 
  
 
-// // Initialize Firebase Authentication and get a reference to the service
+// // Initialize Firebase Authentication and get 
 // const auth = getAuth(app);
 
 
