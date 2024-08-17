@@ -138,7 +138,7 @@ app.get("/all-products", async (req, res) => {
 }
 
 
-// export const app = initializeApp(firebaseConfig);
+// export const app = initializeApp(fi
 
 // // Initialize Firebase Authentication and get a reference to the service
 // const auth = getAuth(app);
